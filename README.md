@@ -1,18 +1,20 @@
-🏛️ Computer Science Department | Cloud 9 Digital
+# 🏛️ Computer Science Department | OMINI DOCS
 
-#Overview
-This repository serves as a centralized "Academic Archive" for Semester-VI students. It is designed to provide a high-performance, modern interface for accessing essential college documents and learning resources.
+## Project Overview
+This repository hosts a centralized **Digital Academic Archive** designed for Semester-VI coursework. The portal provides students and faculty with a high-performance, responsive interface to access vital educational resources.
 
-#Key Features
- E-Library: Direct integration with Google Drive for Announcements, Lab Files, and Exam Papers.
- Maintenance Mode: Automated system lockdown every Sunday (4:00 PM - 5:00 PM) for content updates.
- Resource Feed: Real-time list of the latest updates in core subjects like JAVA, PHP, and ASP.NET.
- Quick Links: Curated list of professional documentation sites (MDN, W3Schools, etc.).
+## 📁 Repository Structure
+- `index.html`: The core single-page application built with modern CSS (Glassmorphism) and responsive layouts.
+- `E-Library`: Integrated cloud storage links for Announcements, Lab Files, and Exam Papers.
+- `Resources`: Optimized study materials for core technical subjects (PHP, JAVA, ASP.NET, COA).
 
-#Technical Details
-- **Architecture:** Single-page responsive application (HTML5/CSS3/JavaScript).
-- **UI Design:** Glassmorphism aesthetic with a dark-theme optimization.
-- **Deployment:** Ready for GitHub Pages or local server hosting.
+## ⚙️ Key Functionalities
+- **Live Maintenance System:** Automatically shifts to a maintenance interface every Sunday (4:00 PM - 5:00 PM) to allow for safe data synchronization.
+- **Resource Management:** Modular sections for Latest Updates and a Future Roadmap for administrative planning.
+- **Accessibility:** Designed with a dark-theme UI and high-scannability for technical documentation.
+
+## 🚀 Deployment Status
+Deployed via **GitHub Pages**. Ensure "Workflow permissions" are set to "Read and write" in repository settings for successful automated builds.
 
 ---
-*Handed over to the Savjani College VRL, March 2026.*
+*Project Developed and Handed Over to Savjani College Dept. of CS - March 2026.*
